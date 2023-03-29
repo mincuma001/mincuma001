@@ -9,7 +9,7 @@
   <img src="https://api.daily.dev/devcards/94158057b17c4a938ac0825c539fc1ba.png?r=1ti" width="400" alt="Alin Catalin Minculeasa's Dev Card"/>
 </a>
 
-[linkedin]: https://www.linkedin.com/in/alin-minculeasa-235195ba/
+[linkedin]: https://www.linkedin.com/in/alin-minculeasa-235195ba/ - LinkedIn profile
 
 <!---
 mincuma001/mincuma001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
