@@ -11,6 +11,8 @@
   <img src="https://api.daily.dev/devcards/94158057b17c4a938ac0825c539fc1ba.png?r=mw3" width="400" alt="Alin Catalin Minculeasa's Dev Card"/>
  </a>
 
+<a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+
 [linkedin]: https://www.linkedin.com/in/alin-minculeasa-235195ba/ 
 
 
